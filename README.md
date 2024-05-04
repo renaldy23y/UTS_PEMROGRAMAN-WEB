@@ -7,16 +7,16 @@
 
 **getting started**
 
-clone the repo: 
+duplikat repo: 
 
 ```bash
-git clone git@github.com:celyes/simple-mvc.git
-cd simple-mvc/
+git clone git@github.com:renaldy23y/UTS_PEMROGRAMAN-WEB.git
+cd UTS pemrogramanweb
 ```
 
-start the server:
+jalankan server:
 
 ```php
 php -S localhost:8080 
 ```
-navigate to http://localhost:8080
+buka http://localhost:8080
