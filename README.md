@@ -1,8 +1,5 @@
-## * Abandoned project *
+## * Project UTS PEMROGRAMAN WEB *
 
-## Simple MVC framework (WIP)
-
-The most basic and simple PHP MVC framework
 
 **requirements**
 
