@@ -1,11 +1,14 @@
 ## * Project UTS PEMROGRAMAN WEB *
 
+**Nama : Renaldy Luthfiana Hakim**
+**Nim  : 2141042**
+**Studi : S1 Teknik Informatika**
 
-**requirements**
+**kebutuhan**
 
 - PHP 7.4 or higher
 
-**getting started**
+**Mulai**
 
 duplikat repo: 
 
